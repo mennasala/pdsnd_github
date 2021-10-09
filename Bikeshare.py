@@ -65,7 +65,7 @@ def get_filters():
 
 # In[135]:
 
-
+# loading data
 def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
